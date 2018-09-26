@@ -9,8 +9,12 @@ Web Scraping and Data Wrangling practice
 
 #### Amazon Review
 
-- scrape Amazon Reviews for top selling rugs
+- Scrape Amazon Reviews for top selling rugs
 
 #### Renthop house data
 
 - Scrape house data on Renthop
+
+#### Restaurant_Data
+
+- Scrape restaurant name and address
