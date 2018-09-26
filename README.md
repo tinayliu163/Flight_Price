@@ -1,6 +1,6 @@
 ### Web Scraping Practice
 
-Web Scraping and Data Wrangling practice in BIA660 Web Analytics course
+Web Scraping and Data Wrangling practice
 
 #### Flight_Price
 - scrape_date function: scrape Google flight price trend in the future 90 days after the start_date
