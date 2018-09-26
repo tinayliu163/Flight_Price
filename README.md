@@ -1,4 +1,4 @@
-# Web Scraping Practice
+### Web Scraping Practice
 
 Web Scraping and Data Wrangling practice in BIA660 Web Analytics course
 
