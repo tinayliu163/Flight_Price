@@ -10,3 +10,7 @@ Web Scraping and Data Wrangling practice
 #### Amazon Review
 
 - scrape Amazon Reviews for top selling rugs
+
+#### Renthop house data
+
+- Scrape house data on Renthop
